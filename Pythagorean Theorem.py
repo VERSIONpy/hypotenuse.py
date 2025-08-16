@@ -1,4 +1,3 @@
-# Write code below 💖
 a = int(input("Enter lenght of short side: "))
 b = int(input("Enter lenght of another short side: "))
 c = (a**2 + b**2)
